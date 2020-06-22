@@ -1,0 +1,3 @@
+git checkout -- filename
+	use [git checkout -- filenam] to revoke the changes in your work directory
+
