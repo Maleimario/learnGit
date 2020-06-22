@@ -1,0 +1,2 @@
+use [git add filename] to add file to stage
+use [git commit -m 'message'] to commit to branch
