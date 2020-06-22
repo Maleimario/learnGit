@@ -1,0 +1,2 @@
+git tracks changes, [git commit -m 'message'] command will commit the changes added by stage using [git add filename]
+

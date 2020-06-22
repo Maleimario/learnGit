@@ -2,3 +2,5 @@ git status
 	git status
 	git status
 	git status
+git diff
+	use git diff command to check the changes including untracked changes and changes of stages 
