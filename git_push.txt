@@ -1,1 +1,3 @@
 use git pull to merge remote branch
+git push
+	use [git push] command to push the local branch to corresponding remote repository
