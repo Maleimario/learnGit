@@ -1,1 +1,6 @@
+solve the branch conflict
+	manual modify the conflicting code
+
+	feature1 branch modify this file
+
 create git_switch file in master branch

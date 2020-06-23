@@ -10,3 +10,9 @@ you are a kand man,
 I will work for you
 forever,
 please!
+
+Hello, extra.txt,
+I am your Boss now,
+please do your best for me
+forever,
+please!
