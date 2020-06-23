@@ -1,0 +1,2 @@
+git push
+	use [git push] command to push the local branch to corresponding remote repository
