@@ -1,3 +1,4 @@
 git checkout -- filename
 	use [git checkout -- filenam] to revoke the changes in your work directory
-
+git checkout -b branchName
+	use [git checkout -b branchName] to create and switch to a new branch
